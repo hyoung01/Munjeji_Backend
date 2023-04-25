@@ -14,6 +14,8 @@
 “문제집 제대로 지르자” <문제지(Munjezi)>는 수능 문제집 리뷰 및 탐색 플랫폼(웹)이다. 난이도와 평가기준을 포함한 과목별 태그와 유저의 성적을 적용하여 문제집을 필터 링하는 방식으로 수능 문제집에 특화된 탐색 경험을 제공한다. 유저의 문제집 리뷰 작성
 건수가 누적되면 실물 문제집 보상 신청이 가능하다. 리뷰는 문제집 필터링 및 커뮤니티 형성에 기여하여 서비스 정체성으로서 기능한다.
 
+### :pushpin: 아이템 포스터
+<img src = "https://user-images.githubusercontent.com/56334375/234221794-ed36919a-590d-40e5-a7be-4de7341f2d8e.jpeg">
 
 ### :pushpin: Development Environment & Language
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
